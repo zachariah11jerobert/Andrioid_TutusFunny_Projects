@@ -1,0 +1,2 @@
+rootProject.name='TutusFunny_Projects'
+include ':app'
